@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kaviasudhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 # Bus_Reservation_System_C
 Bus Reservation System Using C Language
@@ -61,4 +60,4 @@ Contributors names and contact info
 
 ## License
 
-This project is licensed under the [KAAVIASUDHAN] License - see the LICENSE.md file for details
+This project is licensed under the [KAVIASUDHAN] License - see the LICENSE.md file for details
